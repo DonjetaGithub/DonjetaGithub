@@ -8,9 +8,9 @@ Junior Front Ende developer Studied 3 years Bachelor in Universum College in Pri
 
 * 🌍  I'm based in Skenderaj, Kosovo
 * ✉️  You can contact me at [donjeta.kadrija9@gmail.com](mailto:donjeta.kadrija9@gmail.com)
-* 🧠  I'm learning Artificiale Intelligence and Machine Learning
+* 🧠  I'm learning Adobe Photoshop and C# Language
 * 🤝  I'm open to collaborating on different projects
-* ⚡  Im fluent in Albanian Language, B1 in English and Turkish too
+* ⚡  Im Native in Albanian Language, B1 in English and B1 in Turkish 
 
 ### Skills
 
