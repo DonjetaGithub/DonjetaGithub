@@ -1,10 +1,10 @@
 Hi 👋 My name is Donjeta Kadrija
 ================================
 
-Junior Front End Developer
+Junior UI/UX Designer
 --------------------------
 
-Junior Front Ende developer Studied 3 years Bachelor in Universum College in Prishtina, Kosovo
+Junior UI/UX Designer Studied 3 years Bachelor in Universum College in Prishtina, Kosovo
 
 * 🌍  I'm based in Skenderaj, Kosovo
 * ✉️  You can contact me at [donjeta.kadrija9@gmail.com](mailto:donjeta.kadrija9@gmail.com)
