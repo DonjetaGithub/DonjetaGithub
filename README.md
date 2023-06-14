@@ -8,7 +8,7 @@ Junior UI/UX Designer Studied 3 years Bachelor in Universum College in Prishtina
 
 * 🌍  I'm based in Skenderaj, Kosovo
 * ✉️  You can contact me at [donjeta.kadrija9@gmail.com](mailto:donjeta.kadrija9@gmail.com)
-* 🧠  Currently I'm learning UI/UX Design and Front-end
+* 🧠  Currently I'm learning UI/UX Design 
 * 🤝  I'm open to collaborating on different projects
 * ⚡  Im Native in Albanian Language, B1 in English and B1 in Turkish 
 
